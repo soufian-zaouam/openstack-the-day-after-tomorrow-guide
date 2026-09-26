@@ -27,6 +27,8 @@ The guide gives the ideas; the book develops them. Quotations in the guide are t
 
 **Full book:** https://github.com/soufian-zaouam/openstack-the-day-after-tomorrow
 
+**In practice:** the [OpenStack Production Guide](https://github.com/soufian-zaouam/openstack-production-guide) gives the checks, commands and anonymised incident cases behind these ideas.
+
 ## Contents
 
 | Page | Idea | Figure |
@@ -62,6 +64,6 @@ LICENSE
 
 ## Author and licence
 
-Written by Soufian Zaouam as a personal contribution. This is an independent work; it is not affiliated with, sponsored by or endorsed by the OpenInfra Foundation or any OpenStack project team. OpenStack is a trademark of the OpenStack Foundation d/b/a Open Infrastructure Foundation.
+Written by Soufian Zaouam ([LinkedIn](https://www.linkedin.com/in/soufian-zaouam)) as a personal contribution. This is an independent work; it is not affiliated with, sponsored by or endorsed by the OpenInfra Foundation or any OpenStack project team. OpenStack is a trademark of the OpenStack Foundation d/b/a Open Infrastructure Foundation.
 
 Licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC BY-NC-ND 4.0), like the book. See [LICENSE](LICENSE).
